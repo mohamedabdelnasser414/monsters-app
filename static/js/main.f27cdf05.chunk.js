@@ -1,0 +1,2 @@
+(this["webpackJsonpmonsters-app"]=this["webpackJsonpmonsters-app"]||[]).push([[0],{4:function(e,s,t){"use strict";t.r(s);t(1);var n=t(3),c=t.n(n),r=t(0);c.a.render(Object(r.jsxs)("div",{children:[Object(r.jsx)("h1",{children:"Hi"}),Object(r.jsx)("h2",{children:"hello"})]}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.f27cdf05.chunk.js.map
